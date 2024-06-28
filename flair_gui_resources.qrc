@@ -1,0 +1,35 @@
+<RCC>
+  <qresource prefix="Side_panel">
+    <file>Image_resources/sidePanel/notif1.png</file>
+    <file>Image_resources/sidePanel/notif2.png</file>
+    <file>Image_resources/sidePanel/table_data1.png</file>
+    <file>Image_resources/sidePanel/settings1.png</file>
+    <file>Image_resources/sidePanel/settings2.png</file>
+    <file>Image_resources/sidePanel/table_data2.png</file>
+    <file>Image_resources/sidePanel/RKT_MODEL1.png</file>
+    <file>Image_resources/sidePanel/RKT_MODEL2.png</file>
+    <file>Image_resources/sidePanel/GPS1.png</file>
+    <file>Image_resources/sidePanel/GPS2.png</file>
+    <file>Image_resources/sidePanel/home2.png</file>
+    <file>Image_resources/sidePanel/graphs1.png</file>
+    <file>Image_resources/sidePanel/home1.png</file>
+    <file>Image_resources/sidePanel/graphs2.png</file>
+  </qresource>
+  <qresource prefix="Top_panel">
+    <file>Image_resources/topPanel/host_disconnect2.png</file>
+    <file>Image_resources/topPanel/host_disconnect1.png</file>
+    <file>Image_resources/topPanel/flight_data_export1.png</file>
+    <file>Image_resources/topPanel/flight_data_export2.png</file>
+    <file>Image_resources/topPanel/data_upload2.png</file>
+    <file>Image_resources/topPanel/data_upload1.png</file>
+    <file>Image_resources/topPanel/flight_file_upload1.png</file>
+    <file>Image_resources/topPanel/flight_file_upload2.png</file>
+    <file>Image_resources/topPanel/host_connect2.png</file>
+    <file>Image_resources/topPanel/host_connect1.png</file>
+  </qresource>
+  <qresource prefix="team_logo">
+    <file>FLAIR_LOGO.png</file>
+    <file>team_label.png</file>
+    <file>team_sammard_logo_resize2.png</file>
+  </qresource>
+</RCC>

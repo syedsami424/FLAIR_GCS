@@ -1,0 +1,3 @@
+#TO CREATE RESOURCE.PY FILE:-
+
+#C:\Users\iqras\OneDrive\Documents\Team Sammard\Team_Sammard\SA_CUP_2024\FLAIR_GUI>C:\Users\iqras\AppData\Local\Programs\Python\Python311\Scripts\pyrcc5.exe -o resources.py flair_gui_resources.qrc

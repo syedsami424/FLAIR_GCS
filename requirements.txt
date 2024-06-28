@@ -1,0 +1,9 @@
+folium
+geopy
+matplotlib
+PyQtWebEngine
+PyQT5
+Qttools
+pyserial
+pandas
+serial
